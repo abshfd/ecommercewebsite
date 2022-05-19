@@ -103,7 +103,7 @@ div img{
 	padding-right:100px;
 	transition:transform 0.5s;
 }
-.r2{
+.r2,.r3,.r4{
 	background-color: aliceblue;
 }
 .r2:hover{
@@ -114,8 +114,8 @@ div img{
 .r2 img{
 	max-width:1100px;
 	margin:auto;
-	padding-left:100px;
-	padding-right:100px;
+	padding-left:10px;
+	padding-right:10px;
 	transition: transform 0.5s;
 }
 .r3:hover{
@@ -126,8 +126,8 @@ div img{
 .r3 img{	
 	max-width:1100px;
 	margin:auto;
-	padding-left:100px;
-	padding-right:100px;
+	padding-left:10px;
+	padding-right:10px;
 	transition:transform 0.5s;
 }
 .r4:hover{
@@ -138,7 +138,11 @@ div img{
 .r4 img{
 	max-width:1100px;
 	margin:auto;
-	padding-left:100px;
-	padding-right:100px;
+	padding-left:10px;
+	padding-right:10px;
 	transition:transform 0.5s;
+}
+.r2,.r1,.r3,.r4{
+	background-color: aliceblue;
+	padding: 20px;
 }
