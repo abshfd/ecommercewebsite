@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Calculator</title>
+</head>
+<body>
+	<script>
+		function add()
+		{
+			var a=parseInt(prompt("Enter the number a: "));
+			var b=parseInt(prompt("\nEnter the number b: "));
+			c=a+b;
+			document.write(c);
+		}
+		
+		function subtract()
+		{
+			var a=parseInt(prompt("Enter the number a: "));
+			var b=parseInt(prompt("\nEnter the number b: "));
+			c=a-b;
+			document.write(c);
+		}
+		
+		function multipy()
+		{
+			var a=parseInt(prompt("Enter the number a: "));
+			var b=parseInt(prompt("\nEnter the number b: "));
+			c=a*b;
+			document.write(c);
+		}
+		
+		function divide()
+		{
+			var a=parseInt(prompt("Enter the number a: "));
+			var b=parseInt(prompt("\nEnter the number b: "));
+			c=a/b;
+			document.write(c);
+		}
+	</script>
+	<input type="button" onclick="add()" value="Add">
+	<input type="button" ondblclick="subtract()" value="Subtract">
+	<input type="button" onmouseout="multipy()" value="Multiply">
+	<input type="button" onmouseover="divide()" value="Divide">
+</body>
+</html>

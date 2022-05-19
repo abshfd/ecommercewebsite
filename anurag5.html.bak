@@ -1,0 +1,54 @@
+<!doctype html>
+<head>
+	<title>Shapes of Pattern</title>
+</head>
+<body>
+	<table border="1">
+	<tr>
+		<th colspan="2" align="center">Shape</th>
+	</tr>
+	<tr>
+	<td rowspan="3">
+		<pre>
+               <br>1    e<br>
+	        <br>1       d<br>
+         <br>1          c<br>
+      <br>1             b<br>
+   <br>1                a<br>
+   <br>1                a<br>
+      <br>1             b<br>
+	     <br>1          c<br>
+		    <br>1       d<br>
+			   <br>1    e<br>
+		</pre>
+	</td>
+	</tr>
+	<td colspan="3" rowspan="3">
+		<table border="1">
+	<tr>
+	<td>
+	<pre>
+		0000000000
+	   000000000000
+	  00000000000000
+	 0000000000000000
+      00000000000000
+	   000000000000
+	    0000000000
+	</pre></td>
+	</tr>
+	</table>
+    <tr>
+	<td rowspan="2">
+		<table border="1">
+	<td><pre>
+		@@@@@
+		 @@@
+		  @
+    </pre></td>
+	</tr>
+	</table>
+
+
+</body>
+</html>

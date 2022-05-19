@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>C to F</title>
+</head>
+<script>
+	function ctof(c)
+	{
+		var calcius=c;
+		var f=9/5*c+32;
+		return f;
+	}
+	function input()
+	{
+	 var a=prompt("Enter any value: ");
+	 var b=ctof(a);
+	 document.write(b);
+	}
+	input();
+</script>
+</html>

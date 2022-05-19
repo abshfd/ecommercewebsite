@@ -1,0 +1,149 @@
+*{
+	margin:0;
+	padding:0px;
+}
+header{
+	background-color:black;
+	position:fixed;
+	left:0px;
+	right:0px;
+}
+header{
+	font-size:0.9em;
+	text-decoration:none;
+	color:white;
+}
+
+.k1:hover{
+	flex-basis:100%;
+	color:white;
+	transform: translateY(-10px);
+}
+.k1:hover{
+	background-color:red;
+	transition:transform 0.5s;
+}
+.k2:hover{
+	flex-basis:100%;
+	color:white;
+	transform: translateY(-10px);
+}
+.k2:hover{
+	background-color:blue;
+	transition:transform 0.5s;
+}
+.k3:hover{
+	flex-basis:100%;
+	color:white;
+	transform: translateY(-10px);
+}
+.k3:hover{
+	background-color:aqua;
+	transition:transform 0.5s;
+}
+.k4:hover{
+	flex-basis:100%;
+	color:white;
+	transform: translateY(-10px);
+}
+.k4:hover{
+	background-color:green;
+	transition:transform 0.5s;
+}	
+.k5:hover{
+	flex-basis:100%;
+	color:white;
+	transform: translateY(-10px);
+}
+.k5:hover{
+	background-color:brown;
+	transition:transform 0.5s;
+}
+.navbar{
+	display:flex;
+	flex-direction:row;
+	align-items:baseline;
+}
+.navbar{
+	display:block;
+	align-items:center;
+
+	padding:20px;
+}
+nav{
+	flex: 1;
+	text-align:right;
+}
+nav ul{
+	display:inline-block;
+	list-style-type:none;
+}
+nav ul li{
+	display:inline-block;
+	float:left;
+	margin-right:30px;
+}
+a{
+	display:inline-block;
+	text-decoration:none;
+	color:white;
+	letter-spacing:2px;
+	float:left;
+	font-size:15px;
+	margin:0 10px;
+}
+p{
+	color:black;
+}
+.container{
+	max-width:1300px;
+	margin:auto;
+	padding-left:25px;
+	margin-right:25px;
+}
+body{
+	flex-wrap:wrap;
+}
+body .container .navbar{
+	height:100px;
+	background:black;
+	padding:30px;
+	width:100%;
+	z-index:12;
+}
+.logo{
+	width:10px;
+	float:left;
+	height:110px;
+	font-size:20px;
+	float:left;
+	margin:-35px;
+	padding-left:0px;
+
+}
+/*.logo a{
+	font-size:20px;
+	float:left;
+	margin:-35px;
+	padding-left:0px;
+
+}*/
+.row{
+	display:inline-block;
+	padding:300px;
+}
+.row1{
+	display:block;
+	padding:20px;
+}
+.row2{
+	display:block;
+	padding-left:20px;
+}
+.row3{
+	float:right;
+	width:50px;
+	height:50px;
+	margin:0px 400px;
+	
+	

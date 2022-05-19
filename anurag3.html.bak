@@ -1,0 +1,76 @@
+<!doctype html>
+<head>
+	<title>TABLE</title>
+</head>
+<body>
+	<table border="1">
+	<tr>
+		<th colspan="3" align="center"><mark>MY DAY</mark></th>
+	</tr>
+	<tr>
+	<td rowspan="2">
+		<ol type="1">
+			<li>wake up early</li>
+				<ul type="square">
+					<li>5AM</li>
+				</ul>
+				<dl>
+					<dd>-walk</dd>
+					<dd>-jog</dd>                                                                                                                                                                                                                                                                     
+				</dl>
+		</ol>
+	</td>		
+	</tr>
+	<tr>
+	<td>
+		<table border="1">
+	<tr>
+		<th colspan="2"><mark>Things to watch</mark></th>
+	</tr>
+	<tr>
+		<td><img src="anurag.jpg" alt="Your Photo1"></td>
+	    <td><img src="anurag.jpg" alt="Your Photo2"></td>
+	</tr>
+	<tr>
+		<td><img src="anurag.jpg" alt="Your Photo3"></td>
+		<td><img src="anurag.jpg" alt="Your Photo4"></td>
+	</tr>
+		</table>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		<table border="1">
+		<ol type="1" start="2">
+				<li>breakfast</li>
+					<ul type="square">
+						<li>8AM</li>
+					</ul>
+					<dl>
+						<dd>-eggs</dd>
+						<dd>-cofee</dd>
+				    </dl>
+		</ol>
+		</table>
+	</td>
+	</tr>
+	<tr>
+	<td>
+		<table border="1">
+		<ol type="1" start="3">
+				<li>go to chitkara</li>
+					<ul type="square>
+						<li>9AM</li>
+					</ul>
+					<dl>
+						<dd>-attend classes</dd>
+						<dd>-to be continued</dd>
+					</dl>
+		</ol>
+		</table>
+	</td>
+	</tr>
+</body>
+</html>
+	
+	

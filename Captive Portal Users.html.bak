@@ -1,0 +1,75 @@
+<!doctype html>
+<head>
+	<title>Form 3</title>
+</head>
+<body>
+	<h2>Captive Portal Users</h2>
+	<label>Email ID:</label><br>
+	<input><br><br>
+	<label>Password:</label><br>
+	<input><br><br>
+	<label>Age:</label><br>
+	<select>
+		<option>Select Age</option>
+		<option>17</option>
+		<option>18</option>
+		<option>19</option>
+		<option>20</option>
+	</select><br><br>
+	<label>Please Tell Your Branch:</label><br>
+	<input type="radio" name="r1">
+	<label>CSE</label>
+	<input type="radio" name="r1">
+	<label>ESE</label>
+	<input type="radio" name="r1">
+	<label>ME</label>
+	<input type="radio" name="r1">
+	<label>CE</label>
+	<input type="radio" name="r1">
+	<label>Hotel Management</label>
+	<input type="radio" name="r1">
+	<label>Other</label><br><br>
+	<label>Tell Us A Little About Yourself</label><br>
+	<textarea></textarea><br><br>
+	<label>Please See The Network Lines Below:</label><br>
+	<table border="1">
+	<tr>
+		<td colspan="3" align="center">New York</td>
+		<td>College Normal</td>
+		<td align="center">Sydney</td>
+	</tr>
+	<tr>
+		<td>Computer 1</td>
+		<td>Computer 2</td>
+		<td>Computer 3</td>
+		<td>Computer 4</td>
+		<td>Computer 5</td>
+	</tr>
+	<tr>
+		<td>Computer 6</td>
+		<td>Computer 7</td>
+		<td>Computer 8</td>
+		<td colspan="3">Computer 9</td>
+	</tr>
+	</table><br>
+	<label>Enter Your Campus Wifi Details:</label><br>
+	<input type="checkbox" name="r1">
+	<label>First Floor</label><br>
+	<input type="checkbox" name="r2">
+	<label>Second Floor</label><br>
+	<input type="checkbox" name="r3">
+	<label>Third Floor</label><br>
+	<input type="checkbox" name="r4">
+	<label>Fourth Floor</label><br>
+	<input type="checkbox" name="r5">
+	<label>Fifth Floor</label><br>
+	<input type="checkbox" name="r6">
+	<label>Sixth Floor</label><br><br>
+	<input type="checkbox" name="r7">
+	<label>I Agree To<u>Terms Of Service</label><br><br>
+	<input type="button" value="Sign Up">
+
+
+
+</body>
+</html>

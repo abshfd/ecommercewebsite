@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Car</title>
+</head>
+<body>
+	<script>
+	var car={
+		color:"grey";
+		model:"2015";
+		engine:"pata nahi";
+		detail:function()
+		{
+			document.write(this.color + "<br>" + this.model);
+		}
+		<!--document.write=car.detail();-->
+		}
+	</script>
+	<script>
+		document.write=(car.detail());
+	</script>
+	
+</body>
+</html>

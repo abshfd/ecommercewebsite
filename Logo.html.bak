@@ -1,0 +1,201 @@
+<!doctype html>
+<html>
+<head>
+	<title>Logo</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content= "width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style1.css">
+	<script src="https://kit.fontawesome.com/5ef3e4762c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+		<header>
+		<div class="container">
+			<div class="navbar">
+				<div class="cart">
+					<h2 class="cart-title">Your Cart Items</h2>
+				
+					<div class="cart-content">
+					
+						<!--<div class="cart-box">
+						
+							<!--<img src="earphone_4.png" class="cart-img">
+							<div class="detail-box">
+								<div class="cart-product-title">Airpod Earphone</div>
+								<div class="cart-price">Rs.5000&nbsp&nbsp&nbsp&nbsp<del>Rs10,000</div>
+								<input type="number" value="1" class="cart-quantity">
+							</div>
+						
+							<i class="fas fa-trash-alt cart-remove"></i>-->
+						<!--</div>-->
+					</div>
+					
+					<div class="total">
+						<div class="total-title">Total</div>
+						<div class="total-price">Rs.0</div>
+					</div>
+					
+					<button type="button" class="btn-buy">Proceed To Checkout</button>
+					
+					<i class="fas fa-times" id="close-cart"></i>
+				
+				
+				
+				</div>
+				<nav>
+					<label class="logo">
+						<img src="online.jpg" width="150px"></a>
+					</label>
+					<!--<input type="checkbox" id="check">
+					<label for="check" class="checkbtn">
+						<i class="fas fa-bars"></i>
+					</label>-->
+					
+					<ul>
+						<li class="k1"><a class="active" href="#">Home</a></li>
+						<li class="k2"><a href="Products.html">Products</a></li>
+						<li class="k3"><a href="#">Account</a></li>
+						<li class="k4"><a href="contact us.html">Contact Us</a></li>
+						<i class="fas fa-shopping-cart" id="cart-icon"></i>
+						
+					</ul>
+					<!--<div class="cart">
+							<h2 class="cart-title">Your Cart Items</h2>
+							<!--Content-->
+						<!--	<div class="cart-content">
+								<div class="cart-box">
+								
+									<img src="earphone_4.png" class="cart-img">
+									<div class="detail-box">
+										<div class="cart-product-title">Airpod Earphone</div>
+										<div class="cart-price">Rs.47,450&nbsp&nbsp&nbsp&nbsp<del>Rs60,000</div>
+										<input type="number" value="1" class="cart-quantity">
+									</div>
+									<!--Remove Cart-->
+							<!--		<i class="fas fa-trash-alt"></i>
+								</div>
+								<!--Total -->
+								<!--<div class="total">
+									<div class="total-title">Total</div>
+									<div class="total-price">Rs.0</div>
+								</div>
+								<!--Buy Button-->
+								<!--<button type="button" class="btn-buy">Checkout</button>
+								<!-- Cart Close-->
+								<!--<i class="fas fa-times" id="close-cart"></i>
+							</div>-->
+					
+					</div>
+				</nav>
+				
+			</div>
+		</div>
+		</header>
+		<div class="row">
+				<div class="col_2">
+						<p><b>Shopping online is fantastic for comparison shopping,<br>
+							because never before have you had ability to see all the prices offered <br>
+							from everybody at a time.</b><br>
+
+						</p>
+				</div>
+				<div class="col_2">
+						<img src="image_1.png">
+				</div>
+		</div>	
+				<div class="catogaries">
+					<div class="container">
+						<div class="feature">
+							<h2>Featured Products</h2>
+						</div>
+						<div class="row">
+							<div class="col-3">
+								<img src="shirt_s.png">
+								<h5>Red Printed T-Shirt</h5>
+							</div>
+							<div class="col-4">
+								<img src="pent_s.png">
+								<h5>Army Cargo Printed Pants</h5>
+							</div>
+							<div class="col-3">
+								<img src="jacket_s.png">
+								<h5>Winter Jackets</h5>
+							</div>
+							<div class="col-6">
+								<img src="shoe_s.png">
+								<h5>Best shoes</h5>
+							</div>
+							<div class="col-6">
+								<img src="watche_s.png">
+								<h5>Best Watches</h5>
+							</div>
+						</div>
+					</div>
+				</div>			
+					
+		</div>
+		<footer>
+			<div class="brands">
+				<div="small-container">
+					<div class="row">
+						<div class="col-5">
+							<img src="https://tse4.mm.bing.net/th?id=OIP.NmwA2DSSjJ8GDoDElq7C7AHaHa&pid=Api&P=0&w=179&h=179">
+						
+						</div>
+						<div class="col-5">
+							<img src="https://tse1.mm.bing.net/th?id=OIP.vIiw3iylDNWstF-7AwHRkQHaHa&pid=Api&P=0&w=193&h=193">
+						
+						</div>
+						<div class="col-5">
+							<img src="https://tse4.mm.bing.net/th?id=OIP.FIsJMIIB_ucx8Kz3O1C5AgHaEo&pid=Api&P=0&w=273&h=170">
+						
+						</div>
+						<div class="col-5">
+							<img src="https://tse3.mm.bing.net/th?id=OIP.NOU5RfHlMg5qfEhIkmAqWwHaAc&pid=Api&P=0&w=525&h=32">
+						
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		
+			<!--Link To JS-->
+			<script src="cart.js"></script>
+		<!--<footer>
+			<div class="footer">
+				<div class="container">
+					<div class="row">
+						<div class="footer-col-1">
+							<h3>Dowload Our App</h3>
+							<p>Dowload App for Android and ios mobile phone</p>
+							<div class="app logo">
+								<img src="plya2.jpg">
+							</div>
+						</div>
+						<div class="footer-col-2">
+							<img src="online.jpg">
+							<p>Our Purpose is to Sustainably Make the Pleasure and<br> Benefits of Sports Accessible to the Many.</p>
+						</div>
+						</div>
+						<div class="footer-col-3">
+							<h3>Useful Links</h3>
+							<ul>
+								<li>Return Policy</li>
+								<li>Blog Post</li>
+								<li>Coupons for Discount</li>
+								<li>Other More</li>
+							</ul>
+						</div>
+						<div class="footer-col-4">
+							<h3>Follow Us</h3>
+							<ul>
+								<li>Facebook</li>
+								<li>Twitter</li>
+								<li>Instagram</li>
+								<li>Youtube</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>-->
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>All Shirts</title>
+	<link rel="stylesheet" href="style 4 shirt.css">
+	
+</head>
+<body>
+	<table border="2">
+	<h1>Shirts</h1>
+	<div class="r1">
+		<div class="image">
+			<img src="shirt_1.png" width="300px" class="product-img">
+			<h4 class="title">Camisa Shirt</h4>
+			<p class="price">Rs.499&nbsp&nbsp&nbsp&nbsp<del>Rs.1000</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r2">
+		<div class="image">
+			<img src="shirt_2.png"width="300px" class="product-img">
+			<h4 class="title">Printed T-Shirts</h4>
+			<p class="price">Rs.599&nbsp&nbsp&nbsp&nbsp<del>Rs.849</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r3">
+		<div class="image">
+			<img src="shirt_3.png" width="300px" class="product-img">
+			<h4 class="title">Burburry Shirt</h4>
+			<p class="price">Rs.250&nbsp&nbsp&nbsp&nbsp<del>Rs.750</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+
+	<div class="r4">
+		<div class="image">
+			<img src="shirt_4.png" width="250px" class="product-img">
+			<h4 class="title">Mildin T-shirt</h4>
+			<p class="price">Rs.459&nbsp&nbsp&nbsp&nbsp<del>Rs.899</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+
+	<div class="r5">
+		<div class="image">
+			<img src="shirt_5.png" width="300px" class="product-img">
+			<h4 class="title">Apna Time Aayega shirt<h4>
+			<p class="price">Rs.1000&nbsp&nbsp&nbsp&nbsp<del>Rs1500</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	</table>
+	<script src="cart.js"></script>
+</body>
+</html>

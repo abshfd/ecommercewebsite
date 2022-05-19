@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>All Jackets</title>
+	<link rel="stylesheet" href="style 6 jackets.css">
+
+</head>
+<body>
+	<table border="2">
+	<h1>Jackets</h1>
+	<div class="r1">
+		<div class="image">
+			<img src="jacket_1.png" width="300px" class="product-img">
+			<h4 class="title">Armado Jacket</h4>
+			<p class="price">Rs.1200&nbsp&nbsp&nbsp&nbsp<del>Rs.1500</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r2">
+		<div class="image">
+			<img src="jacket_2.png"width="300px" class="product-img">
+			<h4 class="title">Leather B3 Flight Aviator Jacket</h4>
+			<p class="price">Rs.2000&nbsp&nbsp&nbsp&nbsp<del>Rs.7,000</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r3">
+		<div class="image">
+			<img src="jacket_3.png" width="300px" class="product-img">
+			<h4 class="title">Wintage Jacket</h4>
+			<p class="price">Rs.1500&nbsp&nbsp&nbsp&nbsp<del>Rs.3,000</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r4">
+		<div class="image">
+			<img src="jacket_4.png" width="300px" height="430px" class="product-img">
+			<h4 class="title">ZaraMan Jacket</h4>
+			<p class="price">Rs.3000&nbsp&nbsp&nbsp&nbsp<del>Rs.5,000</p>
+			<button class="des">Add To Cart</button>
+		</div>
+	</div>
+	<div class="r5">
+		<div class="image">
+			<img src="jacket_5.png" width="300px" class="product-img">
+			<h4 class="title">SuperDry Jacket<h4>
+			<p class="price">Rs.4000&nbsp&nbsp&nbsp&nbsp<del>Rs.5,000</p>
+			<button class="des">Add To Cart</button>
+	</div>
+	</table>
+	<script src="cart.js"></script>
+</body>
+</html>

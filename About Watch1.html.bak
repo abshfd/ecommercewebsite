@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Watch 1</title>
+	<link rel="stylesheet" href="style 8.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="navbar">
+				
+				<nav>
+					<ul>
+						<li class="k1"><a href="#">Home</a></li>
+						<li class="k2"><a href="Products.html">Products</a></li>
+						<li class="k3"><a href="#">Account</a></li>
+						<li class="k5"><a href="#">About Us&Contact Us</li>
+					</ul>
+				</nav>
+				<div class="logo">
+					<img src="online.jpg" width="150px">
+				</div>
+			</div>
+		</div>
+		</header>
+		<div class="row">
+			<img src="watch1.jpg">
+		<p class="row1">Men's Titan Smart Watch</p>
+		<p class="row2">Rs.Rs.10,599    <del>Rs.12,000</p>
+		<select>
+			<option>Quantity</option>
+			<option>1</option>
+			<option>2<option>
+		</div>
+	
+
+
+
+
+</body>
+</html>

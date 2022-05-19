@@ -1,0 +1,7 @@
+const product=document.querySelector(".a2");
+const inputbox=product.querySelector("input");
+const suggbox= product.querySelector(".a3");
+
+inputbox.onkeyup=()e)=>{
+	console.log(e.target.value);
+}

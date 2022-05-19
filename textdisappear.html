@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Text</title>
+</head>
+<body>
+<script>
+	function cars(color,engine,company)
+	{
+		this.colorcar=color;
+		this.enginecar=engine;
+		this.carcompany=company;
+	}
+	const c = new cars("red",500,"hyundai")
+	document.write(c.colorcar+ "  "+c.enginecar+"  "+c.carcompany+ " ");
+	c.wheels="3cc";
+	document.write(c.wheels);
+</script>
+
+</body>
+</html>

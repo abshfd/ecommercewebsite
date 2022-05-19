@@ -1,0 +1,70 @@
+<!doctype html>
+<head>
+	<title>Javascript</title>
+	<script type="text/javascript">
+		function check(){
+			if(document.sendEmail <1){
+					window.location.alert("Empty From field! Please correct");
+					}
+			}
+	</script>
+</head>
+<body>
+	<h1>Send an eMail</h1>
+	<form name="sendEmail" method="post" action=https://www.google.com/>
+	<table>
+		<tr>
+			<th>From:</th>
+			<td><input type="text"></td><br>
+		</tr>
+		<tr>
+			<th>Subject:</th>
+			<td><input type="text"></td></br>
+		</tr>
+		<tr>
+			<th>Message:</th>
+			<td><textarea></textarea></td>
+		</tr>
+		<input type="reset" placeholder="Reset All Fields">
+		<input type="submit" placeholder="Send Mail" onclick="check()">
+		
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--function my_name(){-->
+			<!--window.location("https://www.google.com/");-->
+			
+		<!--}-->
+		
+		<!--<h1>Redirect the page</h1>
+	<button onclick="my_name()">Replace</button>-->

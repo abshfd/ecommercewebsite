@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>Anurag</title>
+	<style>
+		#div1,#div2{
+			padding:5px;
+			text-align:center;
+			background-color:grey;
+			border:5px solid white;
+		}
+		#div2{
+			padding:30px;
+			display:none;
+		}
+	</style>
+</head>
+	<body>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+  $("#div1").click(function(){
+    $("#div2").slideDown("slow").slideUp("slow").fadeOut("slow").slideDown("slow").slideUp("slow");
+  });
+});
+		</script>
+		
+		<div id="div1">Click here!!!</div>
+		<div id="div2">Hello</div>
+	</body>
+</html>

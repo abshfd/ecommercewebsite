@@ -1,0 +1,77 @@
+<!doctype html>
+<head>
+	<title>MY CHITKARA UNIVERSITY</title>
+	<!--<meta name="description" content="shopping website" http-equiv="anurag1.html">
+	<meta name="keywords" content="html,css,javascript" http-equiv="anurag1.html">
+	<meta name="author" content="shopping website" http-equiv="anurag1.html">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" http-equiv="anurag1.html">
+	<meta name="" http-equiv="refresh" content="10">
+	<link rel="icon" type="images/x-icon" href="Favicon.png">-->
+</head>
+<body onload="alphabet_order()">
+	<!--<!--semantic tag,p,code
+	<p>CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY</p>
+	
+	 CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITy
+				 CHITKARA UNIVERSITY, CHITKARA UNIVERSITY,CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY
+				CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY CHITKARA UNIVERSITY
+				 CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY, CHITKARA UNIVERSITY</p>
+				
+	<iframe src="internal.html" height="200" width="100">
+	</iframe>-->
+	<script type="text/javascript">
+		function set_replace{
+			window.location("anurag.html");
+			}
+	</script>
+	
+		<h1>Redirect the page</h1>
+		<button onmouseover="set_replace">Replace</button>
+		<!--}-->
+			<!--	alert(26-50);-->
+		<!--function sort(){-->
+		<!--document.write(sort(newarray1));-->
+		<!--function uppercase(str){-->
+		<!--var array1 = str.split(' ');-->
+		<!--var array1 = [];-->
+		
+		<!--for(var x=0; x<array1.length; x++)-->
+			<!--newarray1.push(array1[x].charAt(0).toupperCase()+array1[x].slice[l]);-->
+			<!--return newarray1.join('');-->
+			<!--}-->
+			<!--document.write(uppercase("anurag bansal"));-->
+	<!--function alphabet_order(str){-->
+			<!--if(str=='a' || str=='e' || str=='i' || str=='o' || str=='u')-->
+				<!--return("Vowel");-->
+					<!--ctr=ctr+1;-->
+			<!--else-->
+				<!--document.write(alphabet_order("Consonent");-->
+			<!--}-->
+		<!--function alphabet_order(str){-->
+			<!--return str.split('').sort().join('');-->
+			<!--}-->
+			<!--document.write(alphabet_order("anuragbansal"));-->
+	
+		<!--function reverse(){-->
+			<!--var n1= prompt("Enter a number");-->
+			<!--var n2=n1.split('').reverse().join('');-->
+			<!--document.write(n2);-->
+			<!--}-->
+	
+		<!--var n1= 1*prompt("Please enter your number.");-->
+		<!--var n2= 1*prompt("Please enter your number.");-->
+		<!--var n3= n1+n2;-->
+		<!--alert("Sum of two number is"+ n3);-->
+			<!--var n=" "-->
+		<!--for(var i=9; i>=0 ;i--){-->
+			<!--	n=n+" "+i;-->
+					<!--alert(n);-->
+		
+		<!--}-->
+
+
+
+
+
+</body>
+</html>

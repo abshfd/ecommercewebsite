@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Area of circle</title>
+</head>
+<body>
+	<script>
+		function area(r)
+		{
+			var pi=3.14
+			document.write(pi*r*r)
+		}
+	</script>
+	<script>
+		var X=area(2)
+		var Y=X+5
+		document.write(Y)
+	</script>
+
+</body>
+</html>

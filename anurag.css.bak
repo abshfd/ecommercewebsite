@@ -1,0 +1,25 @@
+li:nth-last-child(2){
+color:red;}
+#b{
+display:none;}
+#a:hover+#b{
+display:block;
+color:red;}
+.abc{
+	background-color:pink;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	width:40%;
+	flex-flow:row wrap;
+	align-items:space-around;
+
+}
+.abc div{
+	width:100px;
+	height:100px;
+	margin:10px;
+	font-size: 25px;
+	background-color:blue;
+	color:white;
+}
